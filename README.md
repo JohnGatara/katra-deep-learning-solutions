@@ -1,2 +1,2 @@
 # katra-deep-learning-solutions
-The repository is sharing some parts of my Master Thesis: An enhanced deep learning model to detect anomalies in surveillance videos
+The repository is sharing some parts of my Masters Thesis Project: An enhanced deep learning model to detect anomalies in surveillance videos. The intial design of the model was borrowed from Chong et al. 2017. The model was added some maxpooling functions and its depth added considderable to allow detailed attention the complex video scenario. The model was tranied and tested on UCSD Pedestrian Dataset Ped2 set to detect anomalies in surveillance videos.
